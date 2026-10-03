@@ -1,0 +1,13 @@
+CP1 Optimization Results
+========================
+Target indices: (0,)
+Joint counts: (5, 9)
+Seeds: (3407,)
+Submitted linkages: 89
+
+Run information:
+  Target 1 | Joints: 5 | Seed: 3407 | Linkages: 223
+  Target 1 | Joints: 9 | Seed: 3407 | Linkages: 223
+
+Official evaluator scores:
+{'Overall Score': 0.380534895553005, 'Score Breakdown': {'Problem 1': 2.28320937331803, 'Problem 2': 0.0, 'Problem 3': 0.0}, 'Normalized Score Breakdown': {'Problem 1': 1.141604686659015, 'Problem 2': 0.0, 'Problem 3': 0.0}}

@@ -1,0 +1,44 @@
+{
+  "MAX_JOINTS": 20,
+  "TARGET_INDICES": [
+    1
+  ],
+  "QUICK_CHECK": false,
+  "RUN_SWEEP": false,
+  "JOINT_COUNTS": [
+    7
+  ],
+  "SEEDS": [
+    123
+  ],
+  "COORDINATE_BOUNDS": [
+    0.0,
+    5.0
+  ],
+  "DISTANCE_WEIGHTS": [
+    0.9,
+    0.95
+  ],
+  "POPULATION_SIZE": 100,
+  "GA1_GENERATIONS": 200,
+  "GD_STEPS": 200,
+  "GA2_GENERATIONS": 100,
+  "MAX_GD_CANDIDATES": 12,
+  "GD_LEARNING_RATE": 0.0004,
+  "GD_MAX_BACKTRACKS": 12,
+  "GD_MAX_COORDINATE_STEP": 0.02,
+  "GD_MIN_IMPROVEMENT": 1e-10,
+  "EDGE_MUTATION_RATE": 0.02,
+  "MAX_SUBMITTED_DESIGNS": 1000,
+  "SHOW_FINAL_CURVE": true,
+  "RUN_ID": "20261003T155751715630Z",
+  "ACTIVE_JOINT_COUNTS": [
+    7
+  ],
+  "ACTIVE_SEEDS": [
+    123
+  ],
+  "COMPILE_SECONDS": 0.25176999997347593,
+  "compile_seconds": 0.25176999997347593,
+  "timing_note": "First-use JAX tracing may also be included in search_seconds."
+}

@@ -1,0 +1,3 @@
+target,joints,seed,ga1_evaluations,ga2_evaluations,objective_calls,gradient_calls,search_seconds,feasible_candidates,best_distance_after_ga1,best_distance_in_archive
+1,5,3407,50000,10000,69205,4022,638.4891019999632,223,0.4769299328327179,0.4711934030056
+1,9,3407,50000,10000,68415,4191,796.0885943000321,223,0.5105304718017578,0.5049244165420532
