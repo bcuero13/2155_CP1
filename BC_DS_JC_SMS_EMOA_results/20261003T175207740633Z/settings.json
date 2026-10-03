@@ -1,0 +1,59 @@
+{
+  "MAX_JOINTS": 20,
+  "ALGORITHMS": [
+    "SMS_EMOA"
+  ],
+  "TARGET_INDICES": [
+    0
+  ],
+  "QUICK_CHECK": true,
+  "RUN_SWEEP": false,
+  "JOINT_COUNTS": [
+    7
+  ],
+  "SEEDS": [
+    123
+  ],
+  "COORDINATE_BOUNDS": [
+    0.0,
+    5.0
+  ],
+  "DISTANCE_WEIGHTS": [
+    0.9,
+    0.95
+  ],
+  "POPULATION_SIZE": 20,
+  "GA1_GENERATIONS": 5,
+  "GD_STEPS": 10,
+  "GA2_GENERATIONS": 5,
+  "MAX_GD_CANDIDATES": 4,
+  "GD_LEARNING_RATE": 0.0004,
+  "GD_MAX_BACKTRACKS": 12,
+  "GD_MAX_COORDINATE_STEP": 0.02,
+  "GD_MIN_IMPROVEMENT": 1e-10,
+  "STAGE1_MUTATION": [
+    0.9,
+    0.3,
+    0.02
+  ],
+  "STAGE2_MUTATION": [
+    0.4,
+    0.15,
+    0.01
+  ],
+  "MUTATION_ETA": 20,
+  "MAX_SUBMITTED_DESIGNS": 1000,
+  "SHOW_FINAL_CURVE": true,
+  "RUN_ID": "20261003T175207740633Z",
+  "ACTIVE_JOINT_COUNTS": [
+    7
+  ],
+  "ACTIVE_SEEDS": [
+    123
+  ],
+  "COMPILE_SECONDS": 0.24744980002287775,
+  "pymoo_version": "0.6.1",
+  "compile_seconds": 0.24744980002287775,
+  "timing_note": "First-use JAX tracing can also be included in search time; algorithms run sequentially.",
+  "comparison_note": "Same initial populations and nominal evolutionary budgets. GD work varies; see actual call counts."
+}

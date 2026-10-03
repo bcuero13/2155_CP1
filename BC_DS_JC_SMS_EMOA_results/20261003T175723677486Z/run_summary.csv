@@ -1,0 +1,2 @@
+algorithm,label,target,joints,seed,stage2_seed,stage1_budget,stage2_budget,stage1_evaluations,stage2_evaluations,initialization_calls,initialization_seconds,objective_calls,gradient_calls,gd_accepted_steps,search_seconds,feasible_candidates,submitted_designs,best_distance_after_stage1,best_distance,material_at_best_distance,links_at_best_distance
+SMS_EMOA,sms_emoa_target_1_N7_seed3407,1,7,3407,3408,20000,10000,20000,10000,100,27.369103399978485,39633,4384,4381,828.5677464000182,224,76,0.24352054297924042,0.20935319364070892,6.498291969299316,9
