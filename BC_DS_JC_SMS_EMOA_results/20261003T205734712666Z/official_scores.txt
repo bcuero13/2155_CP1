@@ -1,0 +1,57 @@
+Algorithm: SMS_EMOA
+Workflow: SMS_EMOA -> weighted GD -> SMS_EMOA
+Target numbers: [1, 2, 3]
+Joint counts tested: (5, 6, 7, 8, 9, 10, 11, 12)
+Seeds (initialization/stage 1): (3407,)
+Seeds (stage 2): (3408,)
+Population: 100; quick check: False
+Evolutionary evaluations: 1680000
+Gradient calls: 64535
+Search seconds: 22404.163
+Problem 1: 155 submitted mechanisms
+  Joint counts per mechanism: [5, 6, 7]
+  Link counts per mechanism (edge count): [5, 7, 9]
+Problem 2: 152 submitted mechanisms
+  Joint counts per mechanism: [5, 6]
+  Link counts per mechanism (edge count): [5, 7]
+Problem 3: 194 submitted mechanisms
+  Joint counts per mechanism: [5, 6, 9]
+  Link counts per mechanism (edge count): [5, 7, 11]
+
+Official evaluator scores:
+{'Overall Score': 2.4124440120847472,
+ 'Score Breakdown': {'Problem 1': 3.9891691793158515,
+                     'Problem 2': 5.396720306161594,
+                     'Problem 3': 16.44933909155253},
+ 'Normalized Score Breakdown': {'Problem 1': 1.9945845896579257,
+                                'Problem 2': 3.5978135374410627,
+                                'Problem 3': 1.644933909155253}}
+
+Algorithm: NSGA2
+Workflow: NSGA2 -> weighted GD -> NSGA2
+Target numbers: [1, 2, 3]
+Joint counts tested: (5, 6, 7, 8, 9, 10, 11, 12)
+Seeds (initialization/stage 1): (3407,)
+Seeds (stage 2): (3408,)
+Population: 100; quick check: False
+Evolutionary evaluations: 1680000
+Gradient calls: 60941
+Search seconds: 21993.846
+Problem 1: 144 submitted mechanisms
+  Joint counts per mechanism: [5, 6, 7, 8, 9]
+  Link counts per mechanism (edge count): [5, 7, 9, 11]
+Problem 2: 120 submitted mechanisms
+  Joint counts per mechanism: [5, 6, 7]
+  Link counts per mechanism (edge count): [5, 7, 9]
+Problem 3: 139 submitted mechanisms
+  Joint counts per mechanism: [5, 6, 7, 9]
+  Link counts per mechanism (edge count): [5, 7, 9, 13]
+
+Official evaluator scores:
+{'Overall Score': 2.3528708376155505,
+ 'Score Breakdown': {'Problem 1': 3.690382775872159,
+                     'Problem 2': 5.395223827510762,
+                     'Problem 3': 16.166052399033973},
+ 'Normalized Score Breakdown': {'Problem 1': 1.8451913879360795,
+                                'Problem 2': 3.5968158850071745,
+                                'Problem 3': 1.6166052399033972}}

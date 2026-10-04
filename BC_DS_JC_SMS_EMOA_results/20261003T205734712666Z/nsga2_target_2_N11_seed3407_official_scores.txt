@@ -1,0 +1,43 @@
+Algorithm: NSGA2
+Target: 2
+Joints: 11
+Seed (initialization/stage 1): 3407
+Seed (stage 2): 3408
+Problem 1: 0 submitted mechanisms
+Problem 2: 71 submitted mechanisms
+  Joint counts per mechanism: [11]
+  Link counts per mechanism (edge count): [17]
+Problem 3: 0 submitted mechanisms
+
+Run diagnostics:
+{'algorithm': 'NSGA2',
+ 'best_distance': 0.6104106307029724,
+ 'best_distance_after_stage1': 0.7191916108131409,
+ 'feasible_candidates': 208,
+ 'gd_accepted_steps': 828,
+ 'gradient_calls': 832,
+ 'initialization_calls': 100,
+ 'initialization_seconds': 16.538044499990065,
+ 'joints': 11,
+ 'label': 'nsga2_target_2_N11_seed3407',
+ 'links_at_best_distance': 17,
+ 'material_at_best_distance': 4.28533411026001,
+ 'objective_calls': 76336,
+ 'search_seconds': 509.6360216999892,
+ 'seed': 3407,
+ 'stage1_budget': 50000,
+ 'stage1_evaluations': 50000,
+ 'stage2_budget': 20000,
+ 'stage2_evaluations': 20000,
+ 'stage2_seed': 3408,
+ 'submitted_designs': 71,
+ 'target': 2}
+
+Official evaluator scores:
+{'Overall Score': 0.8288679901980345,
+ 'Score Breakdown': {'Problem 1': 0.0,
+                     'Problem 2': 3.729905955891155,
+                     'Problem 3': 0.0},
+ 'Normalized Score Breakdown': {'Problem 1': 0.0,
+                                'Problem 2': 2.4866039705941034,
+                                'Problem 3': 0.0}}
