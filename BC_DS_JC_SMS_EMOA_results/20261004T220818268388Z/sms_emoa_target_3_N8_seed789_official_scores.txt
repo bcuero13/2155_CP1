@@ -1,0 +1,43 @@
+Algorithm: SMS_EMOA
+Target: 3
+Joints: 8
+Seed (initialization/stage 1): 789
+Seed (stage 2): 790
+Problem 1: 0 submitted mechanisms
+Problem 2: 0 submitted mechanisms
+Problem 3: 100 submitted mechanisms
+  Joint counts per mechanism: [8]
+  Link counts per mechanism (edge count): [11]
+
+Run diagnostics:
+{'algorithm': 'SMS_EMOA',
+ 'best_distance': 0.9179649949073792,
+ 'best_distance_after_stage1': 0.9185713529586792,
+ 'feasible_candidates': 224,
+ 'gd_accepted_steps': 3031,
+ 'gradient_calls': 3049,
+ 'initialization_calls': 100,
+ 'initialization_seconds': 20.18623440002557,
+ 'joints': 8,
+ 'label': 'sms_emoa_target_3_N8_seed789',
+ 'links_at_best_distance': 11,
+ 'material_at_best_distance': 5.774538516998291,
+ 'objective_calls': 75187,
+ 'search_seconds': 1202.2949646999477,
+ 'seed': 789,
+ 'stage1_budget': 50000,
+ 'stage1_evaluations': 50000,
+ 'stage2_budget': 20000,
+ 'stage2_evaluations': 20000,
+ 'stage2_seed': 790,
+ 'submitted_designs': 100,
+ 'target': 3}
+
+Official evaluator scores:
+{'Overall Score': 0.5074167201203328,
+ 'Score Breakdown': {'Problem 1': 0.0,
+                     'Problem 2': 0.0,
+                     'Problem 3': 15.222501603609984},
+ 'Normalized Score Breakdown': {'Problem 1': 0.0,
+                                'Problem 2': 0.0,
+                                'Problem 3': 1.5222501603609984}}
