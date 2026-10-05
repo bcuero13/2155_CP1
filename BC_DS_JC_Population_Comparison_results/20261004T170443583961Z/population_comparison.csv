@@ -1,0 +1,3 @@
+target,algorithm,population,official_hv,total_ga_evaluations,all_budgets_met,search_and_initialization_minutes,gradient_calls,objective_calls,hv_per_minute
+1,SMS_EMOA,60,2.129064946832891,14400,True,2.9186010250006804,755,15208,0.7294813263599106
+1,SMS_EMOA,100,3.552881785260027,14400,True,3.001895528333262,760,15482,1.1835461133561462

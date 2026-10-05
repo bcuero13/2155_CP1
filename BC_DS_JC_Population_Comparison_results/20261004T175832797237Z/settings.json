@@ -1,0 +1,96 @@
+{
+  "MAX_JOINTS": 20,
+  "TARGET_PATH": "kangaroo_target_curves.npy",
+  "ALGORITHMS": [
+    "SMS_EMOA"
+  ],
+  "TARGET_INDICES": [
+    0,
+    1,
+    2
+  ],
+  "QUICK_CHECK": false,
+  "JOINT_COUNTS": [
+    5,
+    6,
+    7,
+    11
+  ],
+  "SEEDS": [
+    3407
+  ],
+  "COORDINATE_BOUNDS": [
+    0.0,
+    5.0
+  ],
+  "POPULATION_SIZES": [
+    100
+  ],
+  "GA1_EVALUATIONS": 4800,
+  "GA2_EVALUATIONS": 2400,
+  "CASE_CONFIGS": [
+    {
+      "name": "SMS_EMOA_P100",
+      "algorithm": "SMS_EMOA",
+      "population": 100
+    }
+  ],
+  "CASE_NAMES": [
+    "SMS_EMOA_P100"
+  ],
+  "DISTANCE_WEIGHTS": [
+    0.5,
+    0.95
+  ],
+  "GD_STEPS": 80,
+  "MAX_GD_CANDIDATES": 4,
+  "GD_LEARNING_RATE": 0.0004,
+  "GD_MAX_BACKTRACKS": 6,
+  "GD_MAX_COORDINATE_STEP": 0.02,
+  "GD_MIN_IMPROVEMENT": 1e-10,
+  "RUN_FINAL_REFINEMENT": true,
+  "FINAL_GD_CANDIDATES": 4,
+  "FINAL_GD_STEPS": 15,
+  "HV_MIN_GAIN": 1e-10,
+  "STAGE1_MUTATION": [
+    0.9,
+    0.3,
+    0.02
+  ],
+  "STAGE2_MUTATION": [
+    0.3,
+    0.15,
+    0.01
+  ],
+  "MUTATION_ETA": 20,
+  "MATING_MAX_ITERATIONS": 20,
+  "MAX_SUBMITTED_DESIGNS": 1000,
+  "OBJECTIVE_CACHE_SIZE": 10000,
+  "SHOW_FINAL_CURVE": true,
+  "VERBOSE": false,
+  "SKIP_IF_NO_FEASIBLE": false,
+  "WARM_START_FILES": [],
+  "SCORE_EACH_ALGORITHM": true,
+  "RUN_ID": "20261004T175832797237Z",
+  "OUTPUT_DIR": "BC_DS_JC_Population_Comparison_results\\20261004T175832797237Z",
+  "ACTIVE_JOINT_COUNTS": [
+    5,
+    6,
+    7,
+    11
+  ],
+  "ACTIVE_SEEDS": [
+    3407
+  ],
+  "COMPILE_SECONDS": 0.002116300049237907,
+  "MIN_GA1_HV": {
+    "0": null,
+    "1": null,
+    "2": null
+  },
+  "pymoo_version": "0.6.1",
+  "compile_seconds": 0.002116300049237907,
+  "hv_note": "Stage HV uses cached Tools objectives and official reference points; final file is officially evaluated.",
+  "counter_note": "Status counts include cache hits; objective_calls counts actual Tools invocations.",
+  "timing_note": "First-use JAX compilation can also occur during initialization and search."
+}

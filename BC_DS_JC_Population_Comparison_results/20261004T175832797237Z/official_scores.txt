@@ -1,0 +1,348 @@
+Submission: sms_emoa_p100_20261004T181926854146Z_submission.npy
+Collection: SMS_EMOA_P100
+Workflow: GA -> weighted GD -> GA -> HV refinement; persistent Pareto archive
+Algorithms: ('SMS_EMOA',)
+Population sizes tested: (100,)
+Targets optimized: [1, 2, 3]
+Joint counts tested: (5, 6, 7, 11)
+Seeds (initialization / GA1): (3407,)
+Seeds (GA2): (3408,)
+Prior files: ()
+Final refinement enabled: True
+Evolutionary evaluations: 86400
+Gradient calls: 4836
+Search seconds (excluding shared initialization): 1020.921
+Skipped refinements: 0
+Problem 1: 144 submitted mechanisms
+  Joint counts: [5, 6]
+  Link counts (edges): [5, 7]
+Problem 2: 37 submitted mechanisms
+  Joint counts: [5]
+  Link counts (edges): [5]
+Problem 3: 98 submitted mechanisms
+  Joint counts: [5, 6]
+  Link counts (edges): [5, 7]
+
+Official evaluator scores:
+{'Overall Score': 1.9035972983247813,
+ 'Score Breakdown': {'Problem 1': 3.5626198283737978,
+                     'Problem 2': 3.861259958600062,
+                     'Problem 3': 13.5530867505407},
+ 'Normalized Score Breakdown': {'Problem 1': 1.7813099141868989,
+                                'Problem 2': 2.5741733057333747,
+                                'Problem 3': 1.35530867505407}}
+
+Submission: my_full_submission_20261004T181926854146Z.npy
+Collection: COMBINED
+Workflow: GA -> weighted GD -> GA -> HV refinement; persistent Pareto archive
+Algorithms: ('SMS_EMOA',)
+Population sizes tested: (100,)
+Targets optimized: [1, 2, 3]
+Joint counts tested: (5, 6, 7, 11)
+Seeds (initialization / GA1): (3407,)
+Seeds (GA2): (3408,)
+Prior files: ()
+Final refinement enabled: True
+Evolutionary evaluations: 86400
+Gradient calls: 4836
+Search seconds (excluding shared initialization): 1020.921
+Skipped refinements: 0
+Problem 1: 144 submitted mechanisms
+  Joint counts: [5, 6]
+  Link counts (edges): [5, 7]
+Problem 2: 37 submitted mechanisms
+  Joint counts: [5]
+  Link counts (edges): [5]
+Problem 3: 98 submitted mechanisms
+  Joint counts: [5, 6]
+  Link counts (edges): [5, 7]
+
+Official evaluator scores:
+{'Overall Score': 1.9035972983247813,
+ 'Score Breakdown': {'Problem 1': 3.5626198283737978,
+                     'Problem 2': 3.861259958600062,
+                     'Problem 3': 13.5530867505407},
+ 'Normalized Score Breakdown': {'Problem 1': 1.7813099141868989,
+                                'Problem 2': 2.5741733057333747,
+                                'Problem 3': 1.35530867505407}}
+
+Design provenance (first retained occurrence):
+  Problem 1, design 0: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 1: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 2: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 3: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 4: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 5: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 6: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 7: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 8: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 9: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GD, source=
+  Problem 1, design 10: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 11: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GD, source=
+  Problem 1, design 12: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 13: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GD, source=
+  Problem 1, design 14: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 15: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 16: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 17: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 18: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 19: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 20: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 21: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 22: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 23: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 24: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GD, source=
+  Problem 1, design 25: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 26: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 27: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 28: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 29: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 30: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 31: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 32: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 33: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 34: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 35: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 36: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 37: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 38: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 39: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GD, source=
+  Problem 1, design 40: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 41: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 42: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 43: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 44: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 45: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 46: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 47: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 48: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 49: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 50: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 51: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 52: joints=6, links=7, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 53: joints=6, links=7, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 54: joints=6, links=7, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 55: joints=6, links=7, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 56: joints=6, links=7, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 57: joints=6, links=7, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 58: joints=6, links=7, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 59: joints=6, links=7, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 60: joints=6, links=7, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 61: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 62: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 63: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 64: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 65: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 66: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 67: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 68: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 69: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 70: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 71: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 72: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 73: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 74: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 75: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 76: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 77: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 78: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 79: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 80: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 81: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 82: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 83: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 84: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 85: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 86: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 87: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 88: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 89: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 90: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 91: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 92: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 93: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 94: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 95: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 96: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 97: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 98: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 99: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 100: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 101: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 102: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 103: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 104: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 105: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 106: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 107: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 108: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 109: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 110: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 111: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 112: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 113: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 114: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 115: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 116: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 117: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 118: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 119: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 120: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 121: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 122: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 123: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 124: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 125: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 126: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 127: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 128: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 1, design 129: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 130: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 131: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 132: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 133: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 134: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 135: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 136: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 137: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 138: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 139: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 140: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 141: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 142: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 1, design 143: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 2, design 0: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 2, design 1: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 2, design 2: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 2, design 3: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 2, design 4: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 2, design 5: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 2, design 6: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 2, design 7: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 2, design 8: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 2, design 9: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 2, design 10: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 2, design 11: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 2, design 12: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 2, design 13: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 2, design 14: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 2, design 15: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 2, design 16: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 2, design 17: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 2, design 18: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 2, design 19: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 2, design 20: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 2, design 21: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 2, design 22: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 2, design 23: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 2, design 24: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 2, design 25: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 2, design 26: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 2, design 27: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 2, design 28: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 2, design 29: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 2, design 30: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 2, design 31: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 2, design 32: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 2, design 33: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 2, design 34: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 2, design 35: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 2, design 36: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 3, design 0: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 3, design 1: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 3, design 2: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 3, design 3: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 3, design 4: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 3, design 5: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 3, design 6: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 3, design 7: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 3, design 8: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 3, design 9: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 3, design 10: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 3, design 11: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 3, design 12: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 3, design 13: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 3, design 14: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 3, design 15: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 16: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 17: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 18: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 19: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 20: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 21: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 22: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 23: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 24: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 25: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 26: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 27: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 28: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 29: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 30: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 31: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 32: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 33: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 34: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 35: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 36: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 37: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 38: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 39: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 40: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 41: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 42: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 43: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 44: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 45: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 46: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 47: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 48: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 49: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 50: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 51: joints=6, links=7, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 3, design 52: joints=6, links=7, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 3, design 53: joints=6, links=7, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 3, design 54: joints=6, links=7, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 3, design 55: joints=6, links=7, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 3, design 56: joints=6, links=7, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 3, design 57: joints=6, links=7, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 3, design 58: joints=6, links=7, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 3, design 59: joints=6, links=7, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 3, design 60: joints=6, links=7, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 3, design 61: joints=6, links=7, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 3, design 62: joints=6, links=7, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 3, design 63: joints=6, links=7, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 3, design 64: joints=6, links=7, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 3, design 65: joints=6, links=7, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 3, design 66: joints=6, links=7, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 67: joints=6, links=7, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 68: joints=6, links=7, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 69: joints=6, links=7, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 70: joints=6, links=7, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 71: joints=6, links=7, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 72: joints=6, links=7, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 73: joints=6, links=7, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 74: joints=6, links=7, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 75: joints=6, links=7, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 76: joints=6, links=7, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 77: joints=6, links=7, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 78: joints=6, links=7, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 79: joints=6, links=7, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 80: joints=6, links=7, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 81: joints=6, links=7, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 82: joints=6, links=7, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 83: joints=6, links=7, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 84: joints=6, links=7, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 85: joints=6, links=7, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 86: joints=6, links=7, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 87: joints=6, links=7, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 88: joints=6, links=7, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 89: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 90: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 91: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 92: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 3, design 93: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 94: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 95: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=
+  Problem 3, design 96: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=GA2, source=
+  Problem 3, design 97: joints=5, links=5, seed=3407, algorithm=SMS_EMOA_P100, stage=final_HV_GD, source=

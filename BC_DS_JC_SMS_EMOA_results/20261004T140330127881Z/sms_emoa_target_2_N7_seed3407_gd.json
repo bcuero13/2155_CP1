@@ -1,0 +1,248 @@
+[
+  {
+    "candidate": 0,
+    "weight": 0.9,
+    "accepted_steps": 0,
+    "history": []
+  },
+  {
+    "candidate": 0,
+    "weight": 0.95,
+    "accepted_steps": 0,
+    "history": []
+  },
+  {
+    "candidate": 1,
+    "weight": 0.9,
+    "accepted_steps": 0,
+    "history": []
+  },
+  {
+    "candidate": 1,
+    "weight": 0.95,
+    "accepted_steps": 0,
+    "history": []
+  },
+  {
+    "candidate": 2,
+    "weight": 0.9,
+    "accepted_steps": 0,
+    "history": []
+  },
+  {
+    "candidate": 2,
+    "weight": 0.95,
+    "accepted_steps": 0,
+    "history": []
+  },
+  {
+    "candidate": 3,
+    "weight": 0.9,
+    "accepted_steps": 0,
+    "history": []
+  },
+  {
+    "candidate": 3,
+    "weight": 0.95,
+    "accepted_steps": 0,
+    "history": []
+  },
+  {
+    "candidate": 4,
+    "weight": 0.9,
+    "accepted_steps": 0,
+    "history": []
+  },
+  {
+    "candidate": 4,
+    "weight": 0.95,
+    "accepted_steps": 0,
+    "history": []
+  },
+  {
+    "candidate": 5,
+    "weight": 0.9,
+    "accepted_steps": 0,
+    "history": []
+  },
+  {
+    "candidate": 5,
+    "weight": 0.95,
+    "accepted_steps": 0,
+    "history": []
+  },
+  {
+    "candidate": 6,
+    "weight": 0.9,
+    "accepted_steps": 0,
+    "history": []
+  },
+  {
+    "candidate": 6,
+    "weight": 0.95,
+    "accepted_steps": 0,
+    "history": []
+  },
+  {
+    "candidate": 7,
+    "weight": 0.9,
+    "accepted_steps": 1,
+    "history": [
+      {
+        "step": 1,
+        "weight": 0.9,
+        "loss": 0.6637416034936905,
+        "distance": 0.866941511631012,
+        "material": 1.3535469770431519,
+        "rate": 1.9480643720179036e-08
+      }
+    ]
+  },
+  {
+    "candidate": 7,
+    "weight": 0.95,
+    "accepted_steps": 1,
+    "history": [
+      {
+        "step": 1,
+        "weight": 0.95,
+        "loss": 0.693096620341142,
+        "distance": 0.8669417500495911,
+        "material": 1.3535469770431519,
+        "rate": 1.84533975478814e-08
+      }
+    ]
+  },
+  {
+    "candidate": 8,
+    "weight": 0.9,
+    "accepted_steps": 2,
+    "history": [
+      {
+        "step": 1,
+        "weight": 0.9,
+        "loss": 0.7203945297002793,
+        "distance": 0.9427476525306702,
+        "material": 1.3333790302276611,
+        "rate": 2.1089847743104408e-07
+      },
+      {
+        "step": 2,
+        "weight": 0.9,
+        "loss": 0.716649689078331,
+        "distance": 0.937754213809967,
+        "material": 1.3334028720855713,
+        "rate": 2.4193801220331664e-08
+      }
+    ]
+  },
+  {
+    "candidate": 8,
+    "weight": 0.95,
+    "accepted_steps": 2,
+    "history": [
+      {
+        "step": 1,
+        "weight": 0.95,
+        "loss": 0.7530112410585085,
+        "distance": 0.9427507519721985,
+        "material": 1.3333791494369507,
+        "rate": 1.997383684076999e-07
+      },
+      {
+        "step": 2,
+        "weight": 0.95,
+        "loss": 0.7490493501226106,
+        "distance": 0.9377461075782776,
+        "material": 1.3334029912948608,
+        "rate": 2.2942604651920498e-08
+      }
+    ]
+  },
+  {
+    "candidate": 9,
+    "weight": 0.9,
+    "accepted_steps": 0,
+    "history": []
+  },
+  {
+    "candidate": 9,
+    "weight": 0.95,
+    "accepted_steps": 0,
+    "history": []
+  },
+  {
+    "candidate": 10,
+    "weight": 0.9,
+    "accepted_steps": 0,
+    "history": []
+  },
+  {
+    "candidate": 10,
+    "weight": 0.95,
+    "accepted_steps": 0,
+    "history": []
+  },
+  {
+    "candidate": 11,
+    "weight": 0.9,
+    "accepted_steps": 3,
+    "history": [
+      {
+        "step": 1,
+        "weight": 0.9,
+        "loss": 0.8863314533233644,
+        "distance": 1.164690375328064,
+        "material": 1.2813671827316284,
+        "rate": 2.848447561346009e-06
+      },
+      {
+        "step": 2,
+        "weight": 0.9,
+        "loss": 0.8812696015834809,
+        "distance": 1.1579396724700928,
+        "material": 1.2814847230911255,
+        "rate": 2.1000667803739873e-07
+      },
+      {
+        "step": 3,
+        "weight": 0.9,
+        "loss": 0.8791443932056427,
+        "distance": 1.155105710029602,
+        "material": 1.2815110683441162,
+        "rate": 3.230561478983422e-08
+      }
+    ]
+  },
+  {
+    "candidate": 11,
+    "weight": 0.95,
+    "accepted_steps": 3,
+    "history": [
+      {
+        "step": 1,
+        "weight": 0.95,
+        "loss": 0.9283566520611445,
+        "distance": 1.1645681858062744,
+        "material": 1.2813676595687866,
+        "rate": 2.6971593139404013e-06
+      },
+      {
+        "step": 2,
+        "weight": 0.95,
+        "loss": 0.9230932503938675,
+        "distance": 1.157918930053711,
+        "material": 1.2814861536026,
+        "rate": 1.990295865791166e-07
+      },
+      {
+        "step": 3,
+        "weight": 0.95,
+        "loss": 0.9212125998735426,
+        "distance": 1.1555432081222534,
+        "material": 1.2815120220184326,
+        "rate": 3.069145371105945e-08
+      }
+    ]
+  }
+]

@@ -1,0 +1,29 @@
+Submission: sms_emoa_p60_submission.npy
+Collection: SMS_EMOA_P60
+Workflow: GA -> weighted GD -> GA -> HV refinement; persistent Pareto archive
+Algorithms: ('SMS_EMOA',)
+Population sizes tested: (60, 100)
+Targets optimized: [1]
+Joint counts tested: (5, 6)
+Seeds (initialization / GA1): (3407,)
+Seeds (GA2): (3408,)
+Prior files: ()
+Final refinement enabled: True
+Evolutionary evaluations: 14400
+Gradient calls: 755
+Search seconds (excluding shared initialization): 151.258
+Skipped refinements: 0
+Problem 1: 141 submitted mechanisms
+  Joint counts: [5, 6]
+  Link counts (edges): [5, 7]
+Problem 2: 0 submitted mechanisms
+Problem 3: 0 submitted mechanisms
+
+Official evaluator scores:
+{'Overall Score': 0.3548441578054818,
+ 'Score Breakdown': {'Problem 1': 2.129064946832891,
+                     'Problem 2': 0.0,
+                     'Problem 3': 0.0},
+ 'Normalized Score Breakdown': {'Problem 1': 1.0645324734164454,
+                                'Problem 2': 0.0,
+                                'Problem 3': 0.0}}

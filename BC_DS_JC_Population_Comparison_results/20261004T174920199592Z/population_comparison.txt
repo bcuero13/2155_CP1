@@ -1,0 +1,9 @@
+Population comparison
+GA budgets per joint count: 4800 + 2400
+Joint counts: (5, 6); seeds: (3407,)
+GD settings are fixed; accepted steps and simulation counts can differ.
+Timing excludes compilation setup and final official scoring; first-use JAX tracing may affect the first case.
+One seed is a practical comparison, not proof of a universal winner.
+
+Problem 1 | SMS_EMOA | population=100 | official HV=3.562620 | GA evals=14400 | minutes=4.08 | budgets met=True
+Problem 1, SMS_EMOA: highest HV in this test was population 100 (3.562620).

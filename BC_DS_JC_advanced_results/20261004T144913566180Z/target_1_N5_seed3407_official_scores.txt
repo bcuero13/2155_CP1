@@ -1,0 +1,7 @@
+Target: 1
+Number of joints: 5
+Seed: 3407
+Number of linkages: 222
+
+Official evaluator scores:
+{'Overall Score': 0.38607369041577755, 'Score Breakdown': {'Problem 1': 2.3164421424946653, 'Problem 2': 0.0, 'Problem 3': 0.0}, 'Normalized Score Breakdown': {'Problem 1': 1.1582210712473326, 'Problem 2': 0.0, 'Problem 3': 0.0}}

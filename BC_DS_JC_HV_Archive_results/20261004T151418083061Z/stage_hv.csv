@@ -1,0 +1,7 @@
+label,algorithm,target,joints,seed,stage,seconds,ga_evaluations,archive_size,archive_hv,submitted_hv,unusable_request_fraction,evaluation_requests,objective_calls,cache_hits,structural_rejects,simulation_invalid,finite_simulations,feasible_requests,gradient_calls
+sms_emoa_target_1_N5_seed3407,SMS_EMOA,1,5,3407,initial,1.4999997802078724e-05,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,0
+sms_emoa_target_1_N5_seed3407,SMS_EMOA,1,5,3407,GA1,0.8520064000040293,100,0,0.0,0.0,0.55,100,78,20,2,53,45,0,0
+sms_emoa_target_1_N6_seed3407,SMS_EMOA,1,6,3407,initial,1.939997309818864e-05,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,0
+sms_emoa_target_1_N6_seed3407,SMS_EMOA,1,6,3407,GA1,1.3554912999970838,100,0,0.0,0.0,0.71,100,80,20,0,71,29,0,0
+sms_emoa_target_1_N7_seed3407,SMS_EMOA,1,7,3407,initial,1.3999990187585354e-05,0,0,0.0,0.0,0.0,0,0,0,0,0,0,0,0
+sms_emoa_target_1_N7_seed3407,SMS_EMOA,1,7,3407,GA1,0.8883887999691069,100,0,0.0,0.0,0.66,100,79,20,1,65,34,0,0

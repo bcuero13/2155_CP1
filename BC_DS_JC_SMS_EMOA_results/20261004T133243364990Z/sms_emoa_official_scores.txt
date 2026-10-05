@@ -1,0 +1,25 @@
+Algorithm: SMS_EMOA
+Workflow: SMS_EMOA -> weighted GD -> SMS_EMOA
+Target numbers: [2]
+Joint counts tested: (5,)
+Seeds (initialization/stage 1): (123,)
+Seeds (stage 2): (124,)
+Population: 20; quick check: True
+Evolutionary evaluations: 200
+Gradient calls: 20
+Search seconds: 3.333
+Problem 1: 0 submitted mechanisms
+Problem 2: 2 submitted mechanisms
+  Joint counts per mechanism: [5]
+  Link counts per mechanism (edge count): [5]
+Problem 3: 0 submitted mechanisms
+
+Official evaluator scores:
+{'Overall Score': 0.19596084407597417,
+ 'Score Breakdown': {'Problem 1': 0.0,
+                     'Problem 2': 0.8818237983418837,
+                     'Problem 3': 0.0},
+ 'Normalized Score Breakdown': {'Problem 1': 0.0,
+                                'Problem 2': 0.5878825322279225,
+                                'Problem 3': 0.0}}
+Unselected targets contribute zero to the overall score.
